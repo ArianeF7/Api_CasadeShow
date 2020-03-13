@@ -1,0 +1,100 @@
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Api_CasaDeShow.exe
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Api_CasaDeShow.deps.json
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Api_CasaDeShow.runtimeconfig.json
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Api_CasaDeShow.runtimeconfig.dev.json
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Api_CasaDeShow.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Api_CasaDeShow.pdb
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\obj\Debug\netcoreapp3.1\Api_CasaDeShow.csprojAssemblyReference.cache
+C:\Users\AAFA\Desktop\Api_CasaDeShow\obj\Debug\netcoreapp3.1\staticwebassets\Api_CasaDeShow.StaticWebAssets.Manifest.cache
+C:\Users\AAFA\Desktop\Api_CasaDeShow\obj\Debug\netcoreapp3.1\staticwebassets\Api_CasaDeShow.StaticWebAssets.xml
+C:\Users\AAFA\Desktop\Api_CasaDeShow\obj\Debug\netcoreapp3.1\Api_CasaDeShow.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AAFA\Desktop\Api_CasaDeShow\obj\Debug\netcoreapp3.1\Api_CasaDeShow.AssemblyInfoInputs.cache
+C:\Users\AAFA\Desktop\Api_CasaDeShow\obj\Debug\netcoreapp3.1\Api_CasaDeShow.AssemblyInfo.cs
+C:\Users\AAFA\Desktop\Api_CasaDeShow\obj\Debug\netcoreapp3.1\Api_CasaDeShow.RazorTargetAssemblyInfo.cache
+C:\Users\AAFA\Desktop\Api_CasaDeShow\obj\Debug\netcoreapp3.1\Api_CasaDeShow.csproj.CopyComplete
+C:\Users\AAFA\Desktop\Api_CasaDeShow\obj\Debug\netcoreapp3.1\Api_CasaDeShow.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\obj\Debug\netcoreapp3.1\Api_CasaDeShow.pdb
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AAFA\Desktop\Api_CasaDeShow\obj\Debug\netcoreapp3.1\Api_CasaDeShow.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Api_CasaDeShow.exe
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Api_CasaDeShow.deps.json
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Api_CasaDeShow.runtimeconfig.json
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Api_CasaDeShow.runtimeconfig.dev.json
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Api_CasaDeShow.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Api_CasaDeShow.pdb
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\obj\Debug\netcoreapp3.1\Api_CasaDeShow.csprojAssemblyReference.cache
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\obj\Debug\netcoreapp3.1\staticwebassets\Api_CasaDeShow.StaticWebAssets.Manifest.cache
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\obj\Debug\netcoreapp3.1\staticwebassets\Api_CasaDeShow.StaticWebAssets.xml
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\obj\Debug\netcoreapp3.1\Api_CasaDeShow.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\obj\Debug\netcoreapp3.1\Api_CasaDeShow.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\obj\Debug\netcoreapp3.1\Api_CasaDeShow.AssemblyInfoInputs.cache
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\obj\Debug\netcoreapp3.1\Api_CasaDeShow.AssemblyInfo.cs
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\obj\Debug\netcoreapp3.1\Api_CasaDeShow.RazorTargetAssemblyInfo.cache
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\obj\Debug\netcoreapp3.1\Api_CasaDeShow.csproj.CopyComplete
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\obj\Debug\netcoreapp3.1\Api_CasaDeShow.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\obj\Debug\netcoreapp3.1\Api_CasaDeShow.pdb
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AAFA\Desktop\Cópia segurança\Api_CasaDeShow\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
