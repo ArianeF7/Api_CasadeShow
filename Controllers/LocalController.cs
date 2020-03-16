@@ -37,12 +37,12 @@ namespace Api_CasaDeShow.Controllers
         public IActionResult Cadastrar([FromBody] LocalCasa LCasa){
 
             /*Validação das entradas*/
-            if(LCasa.Nome == null && LCasa.Endereco == null){
+            if(LCasa.Nome == null || LCasa.Endereco == null){
                 Response.StatusCode = 400;
                 return new ObjectResult(new {msg = "Os campos são de preenchimento obrigatório"});
             }
 
-            if(LCasa.Nome == null ||  LCasa.Nome == "" || LCasa.Endereco == null || LCasa.Endereco == ""){
+            if(LCasa.Nome == "" || LCasa.Endereco == ""){
                 Response.StatusCode = 400;
                 return new ObjectResult(new {msg = "Todos os campos são de preenchimento obrigatório"});
             }            
